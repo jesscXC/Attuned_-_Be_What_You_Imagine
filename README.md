@@ -2,7 +2,7 @@
 
 devved by Jess Cummins
 <br>
-(http://noliesplease.com/)[NoLiesPlease.com]
+[http://noliesplease.com/](NoLiesPlease.com)
 <br>
 
 The sequel to [Fortunate: How to Be](https://github.com/jesscXC/book_fortunate-how-to-be).
@@ -18,5 +18,11 @@ Enter Actions
 Dear Fill Up
 
 Dual Life
+
+Choose to Love More
+
+Twisty Aware Ideas
+
+Improvise and Adapt and Overcome
 
 ...
