@@ -2,7 +2,7 @@
 
 devved by Jess Cummins
 <br>
-[http://noliesplease.com/](NoLiesPlease.com)
+[NoLiesPlease.com](http://noliesplease.com/)
 <br>
 
 The sequel to [Fortunate: How to Be](https://github.com/jesscXC/book_fortunate-how-to-be).
