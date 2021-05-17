@@ -1,11 +1,11 @@
+
 # Attuned: Be What You Imagine
 
-devved by Jess Cummins
+[NoLiesPlease.com](http://noliesplease.com)
 <br>
-[NoLiesPlease.com](http://noliesplease.com/)
-<br>
+devved by Jess Cummins (@jesscxc)
 
-The sequel to [Fortunate: How to Be](https://github.com/jesscXC/book_fortunate-how-to-be).
+The sequel to [Fortunate: How to Be](https://jesscxc.github.io/Fortunate_-_How_to_Be/).
 
 (some working titles of chapters...)
 
